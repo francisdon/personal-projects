@@ -1,0 +1,120 @@
+body{
+    background-color: rgb(68, 67, 67);
+}
+header
+{
+    
+    background-color:blue;
+    clip-path: polygon(0 0%, 100% 0%, 95% 100%, 0% 100%);
+    height:80px;
+    text-align: center;
+    font-size: 30px
+    
+}
+main
+
+{   
+   
+}
+article
+{
+    height: 50%;
+    width: auto;
+    overflow-y: scroll;
+    background-color: darkgray ; 
+    opacity: 60%;
+    margin-left: auto;
+    margin-right: auto;   
+
+}
+#left
+{
+    float: left;
+    height: 30%;
+    width: 27.8%;
+    border: solid 1px red;
+}
+
+#mid
+{
+    margin-left: 28%;
+    margin-right: 28%;
+    height: auto;
+    border: solid 1px red;
+}
+
+#right
+{
+    float: right;
+    height: 30%;
+    width: 27.8%;
+    border: solid 1px red;
+}
+
+
+.container
+{      
+ 
+   position: relative;
+   height: 10%;
+   width: 100%;
+   vertical-align: top;
+
+background-color: lawngreen;
+
+}
+
+
+
+.circut
+{   
+    float: left;
+    position: absolute;
+    top:-110%;
+    background-color: blue;
+    clip-path: polygon(0 38%, 0 41%, 69% 41%, 100% 64%, 100% 61%, 69% 38%);
+    height: 300%;
+    width: 98%;
+}
+
+
+.circle
+{  
+
+        right: 0;
+        position: absolute;
+        top: 40%;
+        width: 3px;
+        height: 3px;
+        border-radius: 50%;
+        border: 5px solid blue;
+}
+
+.container2
+{      
+   
+  position: relative;
+  height: 10%;
+  width: 80%;
+   background-color: darkgreen;
+   vertical-align: bottom;
+   border: lawngreen;
+ 
+}
+ body {
+	margin: 0;
+	padding: 0;
+    border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+footer{ 
+   position: absolute;
+   bottom: 1;
+   background-color: blue;
+   clip-path: polygon(5% 0, 100% 0, 100% 100%, 0% 100%);
+   width: 100%;
+   height: 80px;
+   text-align: center;
+}
