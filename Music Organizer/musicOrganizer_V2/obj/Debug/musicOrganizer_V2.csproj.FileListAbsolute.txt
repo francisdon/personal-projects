@@ -1,0 +1,10 @@
+C:\Users\fdonc\source\repos\musicOrganizer_V2\bin\Debug\musicOrganizer_V2.exe.config
+C:\Users\fdonc\source\repos\musicOrganizer_V2\bin\Debug\musicOrganizer_V2.exe
+C:\Users\fdonc\source\repos\musicOrganizer_V2\bin\Debug\musicOrganizer_V2.pdb
+C:\Users\fdonc\source\repos\musicOrganizer_V2\obj\Debug\musicOrganizer_V2.csprojAssemblyReference.cache
+C:\Users\fdonc\source\repos\musicOrganizer_V2\obj\Debug\musicOrganizer_V2.Form1.resources
+C:\Users\fdonc\source\repos\musicOrganizer_V2\obj\Debug\musicOrganizer_V2.Properties.Resources.resources
+C:\Users\fdonc\source\repos\musicOrganizer_V2\obj\Debug\musicOrganizer_V2.csproj.GenerateResource.cache
+C:\Users\fdonc\source\repos\musicOrganizer_V2\obj\Debug\musicOrganizer_V2.csproj.CoreCompileInputs.cache
+C:\Users\fdonc\source\repos\musicOrganizer_V2\obj\Debug\musicOrganizer_V2.exe
+C:\Users\fdonc\source\repos\musicOrganizer_V2\obj\Debug\musicOrganizer_V2.pdb
